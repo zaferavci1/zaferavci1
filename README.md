@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zafer</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=80&duration=3500&pause=500&color=32CD32FC&center=true&vCenter=true&width=2250&height=300&lines=Hi+%F0%9F%91%8B%2C+I'm+Zafer)](https://git.io/typing-svg)
 <h3 align="center">Bilgisayar Mühendisliği Öğrencisi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaferavci1&label=Profile%20views&color=0e75b6&style=flat" alt="zaferavci1" /> </p>
