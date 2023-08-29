@@ -24,4 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaferavci1&show_icons=true&locale=en" alt="zaferavci1" /></p>
 
 ## Snake eating my contributions
-![svg](profile3d-contrib/profile-green-animate.svg)
+
