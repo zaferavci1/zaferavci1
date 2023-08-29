@@ -23,5 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaferavci1&show_icons=true&locale=en" alt="zaferavci1" /></p>
 
-## Snakeeating my contributions
+## Snake eating my contributions
 ![snake gif](https://github.com/zaferavci1/zaferavci1/blob/output/github-contribution-grid-snake.gif)
