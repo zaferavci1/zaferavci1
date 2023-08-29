@@ -25,4 +25,4 @@
 
 ![snake animation](https://github.com/zaferavci1/zaferavci1/blob/output/github-contribution-grid-snake-dark.svg)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
