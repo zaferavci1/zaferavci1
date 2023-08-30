@@ -5,7 +5,7 @@
 
 - 🔭 Şu anda üzerinde çalışıyorum [Gencay Yıldız](https://github.com/zaferavci1/GencayYildiz)
 
-- 🌱 Şu anda öğreniyorum **OOP, Asp.Net Core**
+- 🌱 Şu anda öğreniyorum **OOP, Asp.Net Core, Python**
 
 - 📫 Bana ulaş **zaferavciidev@gmail.com**
 
