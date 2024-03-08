@@ -7,7 +7,7 @@
 
 - 🌱 Şu anda öğreniyorum **OOP, Asp.Net Core, Python**
 
-- 📫 Bana ulaş **zaferavciidev@gmail.com**
+- 📫 Bana ulaş **zaferavci89@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
