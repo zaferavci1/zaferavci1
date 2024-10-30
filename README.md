@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaferavci1&label=Profile%20views&color=0e75b6&style=flat" alt="zaferavci1" /> </p>
 
-- 🔭 Şu anda üzerinde çalışıyorum [Gencay Yıldız](https://github.com/zaferavci1/GencayYildiz)
+- 🔭 Şu anda üzerinde çalışıyorum [Miuul Data Analytics Bootcamp](https://github.com/zaferavci1/Miuul)
 
-- 🌱 Şu anda öğreniyorum **OOP, Asp.Net Core, Python**
+- 🌱 Şu anda öğreniyorum **OOP, Asp.Net, BLAZOR, Python, PowerBI, SQL, EXCEL**
 
 - 📫 Bana ulaş **zaferavci89@gmail.com**
 
