@@ -5,7 +5,7 @@
 
 - 🔭 Şu anda üzerinde çalışıyorum [Miuul Data Analytics Bootcamp](https://github.com/zaferavci1/Miuul)
 
-- 🌱 Şu anda öğreniyorum **OOP, Asp.Net, BLAZOR, Python, PowerBI, SQL, EXCEL**
+- 🌱 Şu anda öğreniyorum **OOP, Asp.Net, Blazor, Python, PowerBI, SQL, EXCEL**
 
 - 📫 Bana ulaş **zaferavci89@gmail.com**
 
